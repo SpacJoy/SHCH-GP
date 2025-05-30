@@ -1,0 +1,114 @@
+[
+  {
+    "file": "sample_000000.wav",
+    "text": "调节风扇速度",
+    "tokens": [
+      0,
+      1,
+      2
+    ],
+    "class_label": 0,
+    "duration": 1.2965522576465105
+  },
+  {
+    "file": "sample_000001.wav",
+    "text": "拉开书房的窗帘",
+    "tokens": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "class_label": 1,
+    "duration": 2.568454010843904
+  },
+  {
+    "file": "sample_000002.wav",
+    "text": "调低音量",
+    "tokens": [
+      0,
+      1
+    ],
+    "class_label": 2,
+    "duration": 2.819756992280678
+  },
+  {
+    "file": "sample_000003.wav",
+    "text": "设置温度为22度",
+    "tokens": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "class_label": 3,
+    "duration": 2.7180400433530134
+  },
+  {
+    "file": "sample_000004.wav",
+    "text": "关闭卧室的灯",
+    "tokens": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "class_label": 4,
+    "duration": 3.1919290352139864
+  },
+  {
+    "file": "sample_000005.wav",
+    "text": "关闭卧室的灯",
+    "tokens": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "class_label": 4,
+    "duration": 1.1429084132014466
+  },
+  {
+    "file": "sample_000006.wav",
+    "text": "关闭空调",
+    "tokens": [
+      0,
+      1
+    ],
+    "class_label": 5,
+    "duration": 1.3728638427048692
+  },
+  {
+    "file": "sample_000007.wav",
+    "text": "打开厨房的灯",
+    "tokens": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "class_label": 6,
+    "duration": 1.5818379904708348
+  },
+  {
+    "file": "sample_000008.wav",
+    "text": "打开窗帘",
+    "tokens": [
+      0,
+      1
+    ],
+    "class_label": 7,
+    "duration": 2.624882241924455
+  },
+  {
+    "file": "sample_000009.wav",
+    "text": "调高温度",
+    "tokens": [
+      0,
+      1
+    ],
+    "class_label": 8,
+    "duration": 1.9168513196896202
+  }
+]

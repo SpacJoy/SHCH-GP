@@ -1,0 +1,3108 @@
+{
+  "total_samples": 440,
+  "commands": [
+    {
+      "filename": "enhanced_sample_000000.wav",
+      "text": "关闭餐厅空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000001.wav",
+      "text": "关闭餐厅空调",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000002.wav",
+      "text": "切换频道",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000003.wav",
+      "text": "切换频道",
+      "voice_profile": "标准男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000004.wav",
+      "text": "关闭卧室风扇",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000005.wav",
+      "text": "关闭卧室风扇",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000006.wav",
+      "text": "打开客厅的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000007.wav",
+      "text": "打开客厅的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000008.wav",
+      "text": "空调定时关闭",
+      "voice_profile": "缓慢语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000009.wav",
+      "text": "空调定时关闭",
+      "voice_profile": "年轻男声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000010.wav",
+      "text": "报警器关闭",
+      "voice_profile": "标准男声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000011.wav",
+      "text": "报警器关闭",
+      "voice_profile": "年轻男声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000012.wav",
+      "text": "设置儿童房灯光亮度为80%",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000013.wav",
+      "text": "设置儿童房灯光亮度为80%",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000014.wav",
+      "text": "窗帘半开",
+      "voice_profile": "缓慢语音",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000015.wav",
+      "text": "窗帘半开",
+      "voice_profile": "标准女声",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000016.wav",
+      "text": "关闭书房风扇",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000017.wav",
+      "text": "关闭书房风扇",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000018.wav",
+      "text": "设置温度为20度",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000019.wav",
+      "text": "设置温度为20度",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000020.wav",
+      "text": "加湿器关闭",
+      "voice_profile": "缓慢语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000021.wav",
+      "text": "加湿器关闭",
+      "voice_profile": "缓慢语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000022.wav",
+      "text": "设置餐厅灯光亮度为最亮",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000023.wav",
+      "text": "设置餐厅灯光亮度为最亮",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000024.wav",
+      "text": "查看温度",
+      "voice_profile": "清脆女声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000025.wav",
+      "text": "查看温度",
+      "voice_profile": "年轻男声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000026.wav",
+      "text": "打开卧室空调",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000027.wav",
+      "text": "打开卧室空调",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000028.wav",
+      "text": "设置厨房灯光亮度为50%",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000029.wav",
+      "text": "设置厨房灯光亮度为50%",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000030.wav",
+      "text": "设置厨房灯光亮度为最亮",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000031.wav",
+      "text": "设置厨房灯光亮度为最亮",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000032.wav",
+      "text": "设置次卧灯光亮度为最亮",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000033.wav",
+      "text": "设置次卧灯光亮度为最亮",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000034.wav",
+      "text": "设置次卧灯光亮度为中等",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000035.wav",
+      "text": "设置次卧灯光亮度为中等",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000036.wav",
+      "text": "播放新闻频道",
+      "voice_profile": "标准男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000037.wav",
+      "text": "播放新闻频道",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000038.wav",
+      "text": "调暗厨房的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000039.wav",
+      "text": "调暗厨房的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000040.wav",
+      "text": "开启主卧夜灯模式",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000041.wav",
+      "text": "开启主卧夜灯模式",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000042.wav",
+      "text": "播放王菲的歌",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000043.wav",
+      "text": "播放王菲的歌",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000044.wav",
+      "text": "设置主卧灯光亮度为中等",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000045.wav",
+      "text": "设置主卧灯光亮度为中等",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000046.wav",
+      "text": "空调风速调节",
+      "voice_profile": "缓慢语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000047.wav",
+      "text": "空调风速调节",
+      "voice_profile": "快速语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000048.wav",
+      "text": "调高音量",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000049.wav",
+      "text": "调高音量",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000050.wav",
+      "text": "调亮餐厅的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000051.wav",
+      "text": "调亮餐厅的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000052.wav",
+      "text": "自动窗帘模式",
+      "voice_profile": "缓慢语音",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000053.wav",
+      "text": "自动窗帘模式",
+      "voice_profile": "年轻男声",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000054.wav",
+      "text": "安防布防",
+      "voice_profile": "缓慢语音",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000055.wav",
+      "text": "安防布防",
+      "voice_profile": "低沉男声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000056.wav",
+      "text": "关闭书房的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000057.wav",
+      "text": "关闭书房的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000058.wav",
+      "text": "调亮次卧的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000059.wav",
+      "text": "调亮次卧的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000060.wav",
+      "text": "调暗书房的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000061.wav",
+      "text": "调暗书房的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000062.wav",
+      "text": "打开书房的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000063.wav",
+      "text": "打开书房的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000064.wav",
+      "text": "开启餐厅夜灯模式",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000065.wav",
+      "text": "开启餐厅夜灯模式",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000066.wav",
+      "text": "设置卧室灯光亮度为最暗",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000067.wav",
+      "text": "设置卧室灯光亮度为最暗",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000068.wav",
+      "text": "设置书房灯光亮度为中等",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000069.wav",
+      "text": "设置书房灯光亮度为中等",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000070.wav",
+      "text": "开启阅读模式",
+      "voice_profile": "标准男声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000071.wav",
+      "text": "开启阅读模式",
+      "voice_profile": "标准女声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000072.wav",
+      "text": "调暗客厅的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000073.wav",
+      "text": "调暗客厅的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000074.wav",
+      "text": "拉上主卧窗帘",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000075.wav",
+      "text": "拉上主卧窗帘",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000076.wav",
+      "text": "停止播放",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000077.wav",
+      "text": "停止播放",
+      "voice_profile": "低沉男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000078.wav",
+      "text": "窗帘全开",
+      "voice_profile": "年轻男声",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000079.wav",
+      "text": "窗帘全开",
+      "voice_profile": "快速语音",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000080.wav",
+      "text": "打开餐厅风扇",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000081.wav",
+      "text": "打开餐厅风扇",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000082.wav",
+      "text": "关闭安防模式",
+      "voice_profile": "标准女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000083.wav",
+      "text": "关闭安防模式",
+      "voice_profile": "年轻男声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000084.wav",
+      "text": "风扇调速",
+      "voice_profile": "标准男声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000085.wav",
+      "text": "风扇调速",
+      "voice_profile": "年轻男声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000086.wav",
+      "text": "打开厨房的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000087.wav",
+      "text": "打开厨房的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000088.wav",
+      "text": "设置主卧灯光亮度为80%",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000089.wav",
+      "text": "设置主卧灯光亮度为80%",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000090.wav",
+      "text": "切换次卧的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000091.wav",
+      "text": "切换次卧的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000092.wav",
+      "text": "打开电视",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000093.wav",
+      "text": "打开电视",
+      "voice_profile": "标准男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000094.wav",
+      "text": "播放体育频道",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000095.wav",
+      "text": "播放体育频道",
+      "voice_profile": "低沉男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000096.wav",
+      "text": "调低音量",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000097.wav",
+      "text": "调低音量",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000098.wav",
+      "text": "调亮卧室的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000099.wav",
+      "text": "调亮卧室的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000100.wav",
+      "text": "关闭次卧风扇",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000101.wav",
+      "text": "关闭次卧风扇",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000102.wav",
+      "text": "关闭儿童房风扇",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000103.wav",
+      "text": "关闭儿童房风扇",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000104.wav",
+      "text": "设置卧室灯光亮度为中等",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000105.wav",
+      "text": "设置卧室灯光亮度为中等",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000106.wav",
+      "text": "切换客厅的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000107.wav",
+      "text": "切换客厅的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000108.wav",
+      "text": "设置次卧灯光亮度为80%",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000109.wav",
+      "text": "设置次卧灯光亮度为80%",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000110.wav",
+      "text": "打开主卧空调",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000111.wav",
+      "text": "打开主卧空调",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000112.wav",
+      "text": "打开窗帘",
+      "voice_profile": "快速语音",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000113.wav",
+      "text": "打开窗帘",
+      "voice_profile": "低沉男声",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000114.wav",
+      "text": "播放周杰伦的歌",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000115.wav",
+      "text": "播放周杰伦的歌",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000116.wav",
+      "text": "关闭所有灯光",
+      "voice_profile": "标准男声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000117.wav",
+      "text": "关闭所有灯光",
+      "voice_profile": "标准女声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000118.wav",
+      "text": "设置书房灯光亮度为50%",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000119.wav",
+      "text": "设置书房灯光亮度为50%",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000120.wav",
+      "text": "拉开餐厅窗帘",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000121.wav",
+      "text": "拉开餐厅窗帘",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000122.wav",
+      "text": "安防撤防",
+      "voice_profile": "缓慢语音",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000123.wav",
+      "text": "安防撤防",
+      "voice_profile": "缓慢语音",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000124.wav",
+      "text": "关闭窗帘",
+      "voice_profile": "快速语音",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000125.wav",
+      "text": "关闭窗帘",
+      "voice_profile": "清脆女声",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000126.wav",
+      "text": "调暗儿童房的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000127.wav",
+      "text": "调暗儿童房的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000128.wav",
+      "text": "设置餐厅灯光亮度为最暗",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000129.wav",
+      "text": "设置餐厅灯光亮度为最暗",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000130.wav",
+      "text": "空调制冷模式",
+      "voice_profile": "标准男声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000131.wav",
+      "text": "空调制冷模式",
+      "voice_profile": "标准女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000132.wav",
+      "text": "风扇三档",
+      "voice_profile": "标准女声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000133.wav",
+      "text": "风扇三档",
+      "voice_profile": "标准女声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000134.wav",
+      "text": "打开主卧风扇",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000135.wav",
+      "text": "打开主卧风扇",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000136.wav",
+      "text": "设置主卧灯光亮度为最暗",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000137.wav",
+      "text": "设置主卧灯光亮度为最暗",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000138.wav",
+      "text": "关闭餐厅的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000139.wav",
+      "text": "关闭餐厅的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000140.wav",
+      "text": "设置温度为22度",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000141.wav",
+      "text": "设置温度为22度",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000142.wav",
+      "text": "开启厨房夜灯模式",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000143.wav",
+      "text": "开启厨房夜灯模式",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000144.wav",
+      "text": "空调除湿模式",
+      "voice_profile": "快速语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000145.wav",
+      "text": "空调除湿模式",
+      "voice_profile": "标准男声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000146.wav",
+      "text": "开启安防模式",
+      "voice_profile": "年轻男声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000147.wav",
+      "text": "开启安防模式",
+      "voice_profile": "清脆女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000148.wav",
+      "text": "检测空气质量",
+      "voice_profile": "快速语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000149.wav",
+      "text": "检测空气质量",
+      "voice_profile": "低沉男声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000150.wav",
+      "text": "风扇定时",
+      "voice_profile": "低沉男声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000151.wav",
+      "text": "风扇定时",
+      "voice_profile": "快速语音",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000152.wav",
+      "text": "设置卧室灯光亮度为80%",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000153.wav",
+      "text": "设置卧室灯光亮度为80%",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000154.wav",
+      "text": "开门",
+      "voice_profile": "缓慢语音",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000155.wav",
+      "text": "开门",
+      "voice_profile": "清脆女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000156.wav",
+      "text": "关闭空调",
+      "voice_profile": "清脆女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000157.wav",
+      "text": "关闭空调",
+      "voice_profile": "年轻男声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000158.wav",
+      "text": "设置客厅灯光亮度为最暗",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000159.wav",
+      "text": "设置客厅灯光亮度为最暗",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000160.wav",
+      "text": "设置温度为26度",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000161.wav",
+      "text": "设置温度为26度",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000162.wav",
+      "text": "随机播放",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000163.wav",
+      "text": "随机播放",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000164.wav",
+      "text": "打开卧室的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000165.wav",
+      "text": "打开卧室的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000166.wav",
+      "text": "关闭卧室的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000167.wav",
+      "text": "关闭卧室的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000168.wav",
+      "text": "风扇一档",
+      "voice_profile": "低沉男声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000169.wav",
+      "text": "风扇一档",
+      "voice_profile": "快速语音",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000170.wav",
+      "text": "开启客厅夜灯模式",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000171.wav",
+      "text": "开启客厅夜灯模式",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000172.wav",
+      "text": "设置主卧灯光亮度为50%",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000173.wav",
+      "text": "设置主卧灯光亮度为50%",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000174.wav",
+      "text": "调暗卧室的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000175.wav",
+      "text": "调暗卧室的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000176.wav",
+      "text": "调暗主卧的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000177.wav",
+      "text": "调暗主卧的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000178.wav",
+      "text": "打开空调",
+      "voice_profile": "清脆女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000179.wav",
+      "text": "打开空调",
+      "voice_profile": "低沉男声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000180.wav",
+      "text": "查看监控",
+      "voice_profile": "缓慢语音",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000181.wav",
+      "text": "查看监控",
+      "voice_profile": "标准女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000182.wav",
+      "text": "拉上卧室窗帘",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000183.wav",
+      "text": "拉上卧室窗帘",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000184.wav",
+      "text": "关闭主卧空调",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000185.wav",
+      "text": "关闭主卧空调",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000186.wav",
+      "text": "播放流行歌曲",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000187.wav",
+      "text": "播放流行歌曲",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000188.wav",
+      "text": "调暗次卧的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000189.wav",
+      "text": "调暗次卧的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000190.wav",
+      "text": "打开厨房空调",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000191.wav",
+      "text": "打开厨房空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000192.wav",
+      "text": "关闭主卧的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000193.wav",
+      "text": "关闭主卧的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000194.wav",
+      "text": "音乐循环播放",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000195.wav",
+      "text": "音乐循环播放",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000196.wav",
+      "text": "设置书房灯光亮度为最暗",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000197.wav",
+      "text": "设置书房灯光亮度为最暗",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000198.wav",
+      "text": "关闭主卧风扇",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000199.wav",
+      "text": "关闭主卧风扇",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000200.wav",
+      "text": "锁门",
+      "voice_profile": "清脆女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000201.wav",
+      "text": "锁门",
+      "voice_profile": "清脆女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000202.wav",
+      "text": "关闭次卧空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000203.wav",
+      "text": "关闭次卧空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000204.wav",
+      "text": "拉开主卧窗帘",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000205.wav",
+      "text": "拉开主卧窗帘",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000206.wav",
+      "text": "开启新风系统",
+      "voice_profile": "缓慢语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000207.wav",
+      "text": "开启新风系统",
+      "voice_profile": "低沉男声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000208.wav",
+      "text": "调亮客厅的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000209.wav",
+      "text": "调亮客厅的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000210.wav",
+      "text": "拉上书房窗帘",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000211.wav",
+      "text": "拉上书房窗帘",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000212.wav",
+      "text": "开启儿童房夜灯模式",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000213.wav",
+      "text": "开启儿童房夜灯模式",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000214.wav",
+      "text": "关闭厨房的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000215.wav",
+      "text": "关闭厨房的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000216.wav",
+      "text": "空调制热模式",
+      "voice_profile": "缓慢语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000217.wav",
+      "text": "空调制热模式",
+      "voice_profile": "清脆女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000218.wav",
+      "text": "设置厨房灯光亮度为最暗",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000219.wav",
+      "text": "设置厨房灯光亮度为最暗",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000220.wav",
+      "text": "调亮书房的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000221.wav",
+      "text": "调亮书房的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000222.wav",
+      "text": "打开书房风扇",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000223.wav",
+      "text": "打开书房风扇",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000224.wav",
+      "text": "打开儿童房风扇",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000225.wav",
+      "text": "打开儿童房风扇",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000226.wav",
+      "text": "设置客厅灯光亮度为中等",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000227.wav",
+      "text": "设置客厅灯光亮度为中等",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000228.wav",
+      "text": "设置儿童房灯光亮度为中等",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000229.wav",
+      "text": "设置儿童房灯光亮度为中等",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000230.wav",
+      "text": "设置客厅灯光亮度为80%",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000231.wav",
+      "text": "设置客厅灯光亮度为80%",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000232.wav",
+      "text": "切换卧室的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000233.wav",
+      "text": "切换卧室的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000234.wav",
+      "text": "打开风扇",
+      "voice_profile": "缓慢语音",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000235.wav",
+      "text": "打开风扇",
+      "voice_profile": "年轻男声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000236.wav",
+      "text": "调亮主卧的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000237.wav",
+      "text": "调亮主卧的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000238.wav",
+      "text": "设置书房灯光亮度为最亮",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000239.wav",
+      "text": "设置书房灯光亮度为最亮",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000240.wav",
+      "text": "切换主卧的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000241.wav",
+      "text": "切换主卧的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000242.wav",
+      "text": "搜索新闻",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000243.wav",
+      "text": "搜索新闻",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000244.wav",
+      "text": "风扇二档",
+      "voice_profile": "标准女声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000245.wav",
+      "text": "风扇二档",
+      "voice_profile": "年轻男声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000246.wav",
+      "text": "调节音量",
+      "voice_profile": "年轻男声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000247.wav",
+      "text": "调节音量",
+      "voice_profile": "快速语音",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000248.wav",
+      "text": "查看湿度",
+      "voice_profile": "快速语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000249.wav",
+      "text": "查看湿度",
+      "voice_profile": "缓慢语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000250.wav",
+      "text": "关闭儿童房的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000251.wav",
+      "text": "关闭儿童房的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000252.wav",
+      "text": "设置次卧灯光亮度为50%",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000253.wav",
+      "text": "设置次卧灯光亮度为50%",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000254.wav",
+      "text": "调亮儿童房的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000255.wav",
+      "text": "调亮儿童房的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000256.wav",
+      "text": "打开书房空调",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000257.wav",
+      "text": "打开书房空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000258.wav",
+      "text": "打开全部灯",
+      "voice_profile": "标准女声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000259.wav",
+      "text": "打开全部灯",
+      "voice_profile": "标准女声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000260.wav",
+      "text": "搜索音乐",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000261.wav",
+      "text": "搜索音乐",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000262.wav",
+      "text": "设置厨房灯光亮度为80%",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000263.wav",
+      "text": "设置厨房灯光亮度为80%",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000264.wav",
+      "text": "切换书房的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000265.wav",
+      "text": "切换书房的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000266.wav",
+      "text": "拉开卧室窗帘",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000267.wav",
+      "text": "拉开卧室窗帘",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000268.wav",
+      "text": "关闭卧室空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000269.wav",
+      "text": "关闭卧室空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000270.wav",
+      "text": "拉上客厅窗帘",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000271.wav",
+      "text": "拉上客厅窗帘",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000272.wav",
+      "text": "设置餐厅灯光亮度为50%",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000273.wav",
+      "text": "设置餐厅灯光亮度为50%",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000274.wav",
+      "text": "搜索综艺",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000275.wav",
+      "text": "搜索综艺",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000276.wav",
+      "text": "播放流行音乐",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000277.wav",
+      "text": "播放流行音乐",
+      "voice_profile": "标准男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000278.wav",
+      "text": "打开客厅空调",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000279.wav",
+      "text": "打开客厅空调",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000280.wav",
+      "text": "调暗餐厅的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000281.wav",
+      "text": "调暗餐厅的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000282.wav",
+      "text": "播放综艺频道",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000283.wav",
+      "text": "播放综艺频道",
+      "voice_profile": "低沉男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000284.wav",
+      "text": "设置主卧灯光亮度为最亮",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000285.wav",
+      "text": "设置主卧灯光亮度为最亮",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000286.wav",
+      "text": "打开次卧风扇",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000287.wav",
+      "text": "打开次卧风扇",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000288.wav",
+      "text": "开启卧室夜灯模式",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000289.wav",
+      "text": "开启卧室夜灯模式",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000290.wav",
+      "text": "设置餐厅灯光亮度为中等",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000291.wav",
+      "text": "设置餐厅灯光亮度为中等",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000292.wav",
+      "text": "调亮厨房的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000293.wav",
+      "text": "调亮厨房的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000294.wav",
+      "text": "回到主页",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000295.wav",
+      "text": "回到主页",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000296.wav",
+      "text": "电视静音",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000297.wav",
+      "text": "电视静音",
+      "voice_profile": "低沉男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000298.wav",
+      "text": "设置客厅灯光亮度为50%",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000299.wav",
+      "text": "设置客厅灯光亮度为50%",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000300.wav",
+      "text": "播放林俊杰的歌",
+      "voice_profile": "标准男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000301.wav",
+      "text": "播放林俊杰的歌",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000302.wav",
+      "text": "打开卧室风扇",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000303.wav",
+      "text": "打开卧室风扇",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000304.wav",
+      "text": "窗帘全关",
+      "voice_profile": "低沉男声",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000305.wav",
+      "text": "窗帘全关",
+      "voice_profile": "缓慢语音",
+      "category": "窗帘控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000306.wav",
+      "text": "拉开厨房窗帘",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000307.wav",
+      "text": "拉开厨房窗帘",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000308.wav",
+      "text": "设置儿童房灯光亮度为最亮",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000309.wav",
+      "text": "设置儿童房灯光亮度为最亮",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000310.wav",
+      "text": "打开主卧的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000311.wav",
+      "text": "打开主卧的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000312.wav",
+      "text": "拉上厨房窗帘",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000313.wav",
+      "text": "拉上厨房窗帘",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000314.wav",
+      "text": "空调定时开启",
+      "voice_profile": "低沉男声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000315.wav",
+      "text": "空调定时开启",
+      "voice_profile": "快速语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000316.wav",
+      "text": "关闭次卧的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000317.wav",
+      "text": "关闭次卧的灯",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000318.wav",
+      "text": "开启次卧夜灯模式",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000319.wav",
+      "text": "开启次卧夜灯模式",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000320.wav",
+      "text": "调低温度",
+      "voice_profile": "清脆女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000321.wav",
+      "text": "调低温度",
+      "voice_profile": "清脆女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000322.wav",
+      "text": "下一首",
+      "voice_profile": "年轻男声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000323.wav",
+      "text": "下一首",
+      "voice_profile": "低沉男声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000324.wav",
+      "text": "打开餐厅的灯",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000325.wav",
+      "text": "打开餐厅的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000326.wav",
+      "text": "灯光场景切换",
+      "voice_profile": "清脆女声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000327.wav",
+      "text": "灯光场景切换",
+      "voice_profile": "标准男声",
+      "category": "灯光控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000328.wav",
+      "text": "设置厨房灯光亮度为中等",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000329.wav",
+      "text": "设置厨房灯光亮度为中等",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000330.wav",
+      "text": "设置卧室灯光亮度为50%",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000331.wav",
+      "text": "设置卧室灯光亮度为50%",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000332.wav",
+      "text": "切换厨房的灯",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000333.wav",
+      "text": "切换厨房的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000334.wav",
+      "text": "切换儿童房的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000335.wav",
+      "text": "切换儿童房的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000336.wav",
+      "text": "拉开儿童房窗帘",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000337.wav",
+      "text": "拉开儿童房窗帘",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000338.wav",
+      "text": "搜索电影",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000339.wav",
+      "text": "搜索电影",
+      "voice_profile": "低沉男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000340.wav",
+      "text": "关闭厨房空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000341.wav",
+      "text": "关闭厨房空调",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000342.wav",
+      "text": "关闭风扇",
+      "voice_profile": "清脆女声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000343.wav",
+      "text": "关闭风扇",
+      "voice_profile": "快速语音",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000344.wav",
+      "text": "空气净化器关闭",
+      "voice_profile": "标准女声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000345.wav",
+      "text": "空气净化器关闭",
+      "voice_profile": "清脆女声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000346.wav",
+      "text": "关闭电视",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000347.wav",
+      "text": "关闭电视",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000348.wav",
+      "text": "打开厨房风扇",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000349.wav",
+      "text": "打开厨房风扇",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000350.wav",
+      "text": "拉开客厅窗帘",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000351.wav",
+      "text": "拉开客厅窗帘",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000352.wav",
+      "text": "打开餐厅空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000353.wav",
+      "text": "打开餐厅空调",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000354.wav",
+      "text": "电视待机",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000355.wav",
+      "text": "电视待机",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000356.wav",
+      "text": "设置书房灯光亮度为80%",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000357.wav",
+      "text": "设置书房灯光亮度为80%",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000358.wav",
+      "text": "切换餐厅的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000359.wav",
+      "text": "切换餐厅的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000360.wav",
+      "text": "播放轻音乐",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000361.wav",
+      "text": "播放轻音乐",
+      "voice_profile": "标准男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000362.wav",
+      "text": "风扇摆头",
+      "voice_profile": "标准女声",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000363.wav",
+      "text": "风扇摆头",
+      "voice_profile": "缓慢语音",
+      "category": "风扇控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000364.wav",
+      "text": "设置卧室灯光亮度为最亮",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000365.wav",
+      "text": "设置卧室灯光亮度为最亮",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000366.wav",
+      "text": "取消静音",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000367.wav",
+      "text": "取消静音",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000368.wav",
+      "text": "拉上餐厅窗帘",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000369.wav",
+      "text": "拉上餐厅窗帘",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000370.wav",
+      "text": "关闭客厅的灯",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000371.wav",
+      "text": "关闭客厅的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000372.wav",
+      "text": "开启书房夜灯模式",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000373.wav",
+      "text": "开启书房夜灯模式",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000374.wav",
+      "text": "播放古典音乐",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000375.wav",
+      "text": "播放古典音乐",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000376.wav",
+      "text": "拉开书房窗帘",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000377.wav",
+      "text": "拉开书房窗帘",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000378.wav",
+      "text": "拉上儿童房窗帘",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000379.wav",
+      "text": "拉上儿童房窗帘",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000380.wav",
+      "text": "设置儿童房灯光亮度为50%",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000381.wav",
+      "text": "设置儿童房灯光亮度为50%",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000382.wav",
+      "text": "报警器开启",
+      "voice_profile": "标准女声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000383.wav",
+      "text": "报警器开启",
+      "voice_profile": "标准男声",
+      "category": "安全控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000384.wav",
+      "text": "关闭儿童房空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000385.wav",
+      "text": "关闭儿童房空调",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000386.wav",
+      "text": "播放电影频道",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000387.wav",
+      "text": "播放电影频道",
+      "voice_profile": "缓慢语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000388.wav",
+      "text": "打开客厅风扇",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000389.wav",
+      "text": "打开客厅风扇",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000390.wav",
+      "text": "设置次卧灯光亮度为最暗",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000391.wav",
+      "text": "设置次卧灯光亮度为最暗",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000392.wav",
+      "text": "设置温度为24度",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000393.wav",
+      "text": "设置温度为24度",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000394.wav",
+      "text": "打开应用",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000395.wav",
+      "text": "打开应用",
+      "voice_profile": "快速语音",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000396.wav",
+      "text": "打开儿童房的灯",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000397.wav",
+      "text": "打开儿童房的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000398.wav",
+      "text": "设置客厅灯光亮度为最亮",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000399.wav",
+      "text": "设置客厅灯光亮度为最亮",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000400.wav",
+      "text": "关闭客厅空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000401.wav",
+      "text": "关闭客厅空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000402.wav",
+      "text": "打开儿童房空调",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000403.wav",
+      "text": "打开儿童房空调",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000404.wav",
+      "text": "播放邓紫棋的歌",
+      "voice_profile": "清脆女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000405.wav",
+      "text": "播放邓紫棋的歌",
+      "voice_profile": "年轻男声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000406.wav",
+      "text": "空气净化器开启",
+      "voice_profile": "标准男声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000407.wav",
+      "text": "空气净化器开启",
+      "voice_profile": "年轻男声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000408.wav",
+      "text": "关闭厨房风扇",
+      "voice_profile": "快速语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000409.wav",
+      "text": "关闭厨房风扇",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000410.wav",
+      "text": "关闭餐厅风扇",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000411.wav",
+      "text": "关闭餐厅风扇",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000412.wav",
+      "text": "加湿器开启",
+      "voice_profile": "缓慢语音",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000413.wav",
+      "text": "加湿器开启",
+      "voice_profile": "低沉男声",
+      "category": "环境控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000414.wav",
+      "text": "设置温度为28度",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000415.wav",
+      "text": "设置温度为28度",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000416.wav",
+      "text": "设置儿童房灯光亮度为最暗",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000417.wav",
+      "text": "设置儿童房灯光亮度为最暗",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000418.wav",
+      "text": "打开次卧空调",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000419.wav",
+      "text": "打开次卧空调",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000420.wav",
+      "text": "暂停音乐",
+      "voice_profile": "清脆女声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000421.wav",
+      "text": "暂停音乐",
+      "voice_profile": "低沉男声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000422.wav",
+      "text": "关闭书房空调",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000423.wav",
+      "text": "关闭书房空调",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000424.wav",
+      "text": "拉开次卧窗帘",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000425.wav",
+      "text": "拉开次卧窗帘",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000426.wav",
+      "text": "拉上次卧窗帘",
+      "voice_profile": "低沉男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000427.wav",
+      "text": "拉上次卧窗帘",
+      "voice_profile": "标准男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000428.wav",
+      "text": "播放音乐",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000429.wav",
+      "text": "播放音乐",
+      "voice_profile": "标准女声",
+      "category": "电视控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000430.wav",
+      "text": "打开次卧的灯",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000431.wav",
+      "text": "打开次卧的灯",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000432.wav",
+      "text": "设置餐厅灯光亮度为80%",
+      "voice_profile": "缓慢语音",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000433.wav",
+      "text": "设置餐厅灯光亮度为80%",
+      "voice_profile": "标准女声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000434.wav",
+      "text": "调高温度",
+      "voice_profile": "缓慢语音",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000435.wav",
+      "text": "调高温度",
+      "voice_profile": "标准女声",
+      "category": "空调控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000436.wav",
+      "text": "上一首",
+      "voice_profile": "清脆女声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000437.wav",
+      "text": "上一首",
+      "voice_profile": "标准女声",
+      "category": "音乐控制",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000438.wav",
+      "text": "关闭客厅风扇",
+      "voice_profile": "年轻男声",
+      "category": "其他",
+      "duration": 2.0
+    },
+    {
+      "filename": "enhanced_sample_000439.wav",
+      "text": "关闭客厅风扇",
+      "voice_profile": "清脆女声",
+      "category": "其他",
+      "duration": 2.0
+    }
+  ],
+  "categories": {
+    "其他": 282,
+    "电视控制": 60,
+    "空调控制": 20,
+    "安全控制": 18,
+    "窗帘控制": 12,
+    "环境控制": 16,
+    "灯光控制": 8,
+    "风扇控制": 16,
+    "音乐控制": 8
+  },
+  "voice_profiles": [
+    "标准男声",
+    "标准女声",
+    "低沉男声",
+    "清脆女声",
+    "年轻男声",
+    "缓慢语音",
+    "快速语音"
+  ],
+  "generation_time": "",
+  "sample_rate": 16000,
+  "target_duration": 2.0
+}
