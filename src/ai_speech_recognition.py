@@ -105,7 +105,7 @@ class AISpeechRecognizer:
         """初始化Whisper引擎"""
         try:
             model_size = AI_SPEECH_CONFIG.get('whisper', {}).get('model_size', 'base')
-            self.whisper_model = whisper.load_model(model_size)
+            self.whisper_model = whisper.load_model(model_size) # type: ignore
             self._update_status(f"Whisper {model_size} 模型加载完成")
         except ImportError:
             self._update_status("Whisper未安装，将使用默认引擎")
